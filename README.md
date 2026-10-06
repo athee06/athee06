@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Athiban
 
-<!--
-**athee06/athee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an accessibility tester and a screen reader user. I build tools and apps that make everyday software easier to use for blind and low-vision people.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Edge TTS for NVDA and Android](https://github.com/athee06/edgeTtsForNvda)** - an NVDA add-on and Android text-to-speech engine that brings 300+ Microsoft Edge neural voices to screen reader users.
+- **[a11y-engine](https://github.com/athee06/a11y-engine)** - a userscript that fixes missing labels, roles, keyboard support and focus handling on websites. Every change can be rolled back.
+- **[Beyond Pixels](https://play.google.com/store/apps/details?id=com.athee06.beyondpixels)** - an Android photo gallery for blind and low-vision users, on Google Play.
+
+## What I work on
+
+Accessibility testing for web and mobile, testing with screen readers, and WCAG.
+
+## Links
+
+[Beyond Pixels website](https://beyond-pixels-app.web.app)
